@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="140"
+   height="140"
+   viewBox="0 0 37.041662 37.041662"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="folder.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-67.102454"
+     inkscape:cy="64.088572"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.784522,-125.09643)">
+    <g
+       id="g3832"
+       transform="matrix(0.60098218,0,0,0.52853673,30.313688,127.89346)">
+      <g
+         id="g3773">
+        <path
+           id="path3765"
+           d="M 57.49,27 H 54 V 20.732 C 54,19.226 52.774,18 51.268,18 H 48 v -2.414 l -0.495,-0.495 c -0.001,0 -0.001,-10e-4 -0.001,-0.002 L 40.208,7.793 32.414,0 H 8 V 11 H 2.732 C 1.226,11 0,12.226 0,13.732 v 43.687 h 0.006 c -0.005,0.563 0.17,1.114 0.522,1.575 C 1.018,59.634 1.76,60 2.565,60 h 44.759 c 1.156,0 2.174,-0.779 2.45,-1.813 L 60,30.149 V 29.972 C 60,28.25 58.944,27 57.49,27 Z M 51.268,20 C 51.671,20 52,20.328 52,20.732 V 27 H 48 V 20 Z M 33,3.415 44.586,15 H 33 Z M 10,2 h 21 v 15 h 15 v 1 9 H 12.731 c -0.143,0 -0.284,0.012 -0.422,0.035 -0.974,0.162 -1.786,0.872 -2.028,1.778 L 10,29.585 V 11 Z M 2,13.732 C 2,13.328 2.329,13 2.732,13 H 8 V 35.035 L 2,51.399 Z M 47.869,57.583 C 47.803,57.828 47.579,58 47.324,58 H 2.565 C 2.322,58 2.18,57.861 2.117,57.778 2.054,57.696 1.957,57.522 1.994,57.37 L 8,40.898 v 0.005 l 4.16,-11.404 0.026,-0.082 C 12.252,29.172 12.477,29 12.731,29 H 46 h 2 6 3.49 c 0.38,0 0.477,0.546 0.502,0.819 z"
+           inkscape:connector-curvature="0"
+           style="fill:#46b814" />
+        <path
+           id="path3767"
+           d="m 16,17 h 10 c 0.552,0 1,-0.447 1,-1 0,-0.553 -0.448,-1 -1,-1 H 16 c -0.552,0 -1,0.447 -1,1 0,0.553 0.448,1 1,1 z"
+           inkscape:connector-curvature="0"
+           style="fill:#46b814" />
+        <path
+           id="path3769"
+           d="M 16,10 H 26 C 26.552,10 27,9.553 27,9 27,8.447 26.552,8 26,8 H 16 c -0.552,0 -1,0.447 -1,1 0,0.553 0.448,1 1,1 z"
+           inkscape:connector-curvature="0"
+           style="fill:#46b814" />
+        <path
+           id="path3771"
+           d="m 16,24 h 24 c 0.552,0 1,-0.447 1,-1 0,-0.553 -0.448,-1 -1,-1 H 16 c -0.552,0 -1,0.447 -1,1 0,0.553 0.448,1 1,1 z"
+           inkscape:connector-curvature="0"
+           style="fill:#46b814" />
+      </g>
+      <g
+         id="g3775" />
+      <g
+         id="g3777" />
+      <g
+         id="g3779" />
+      <g
+         id="g3781" />
+      <g
+         id="g3783" />
+      <g
+         id="g3785" />
+      <g
+         id="g3787" />
+      <g
+         id="g3789" />
+      <g
+         id="g3791" />
+      <g
+         id="g3793" />
+      <g
+         id="g3795" />
+      <g
+         id="g3797" />
+      <g
+         id="g3799" />
+      <g
+         id="g3801" />
+      <g
+         id="g3803" />
+    </g>
+  </g>
+</svg>
